@@ -1,0 +1,10 @@
+16/8/24
+
+1) find the perfect number
+{
+    28 how many times we can multiply them and find a sum of that number
+    10
+    
+}
+
+2)fibbonacci string 
